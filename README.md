@@ -1,5 +1,3 @@
-# Configuring Grafana, MQTT, Influx DB
-
 ## Useful links
 
 - [BBQKees](https://bbqkees-electronics.nl/wiki/index.html)
