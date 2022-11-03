@@ -13,8 +13,8 @@ ___
 Download packages and install the *.deb
 ```
 sudo apt-get install -y adduser libfontconfig1
-wget https://dl.grafana.com/enterprise/release/grafana-enterprise_9.2.3_arm64.deb
-sudo dpkg -i grafana-enterprise_9.2.3_arm64.deb
+wget https://dl.grafana.com/enterprise/release/grafana-enterprise-rpi_9.2.3_armhf.deb
+sudo dpkg -i grafana-enterprise-rpi_9.2.3_armhf.deb
 ```
 After install run the following commands:
 ```
